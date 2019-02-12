@@ -11,5 +11,11 @@ Preparing project for development
 
 Version 1.0.0.0
       Merge branch - Updated Favicons
-            - Generated favorite icons package from https://www.favicon-generator.org/
+            - Generated favorite icons package from
+                  https://www.favicon-generator.org/
             - Updated title to iop-5xx | Don Allen
+
+Version 1.0.0.1
+      - Updated favicon link element in index.html
+      - Added header changes to main.css 
+      - Added footer
