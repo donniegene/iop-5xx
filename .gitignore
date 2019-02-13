@@ -22,3 +22,11 @@ wp-content/plugins/hello.php
 .ftpignore
 *.ftpconfig
 *.ftpignore
+
+# DW Dreamweaver added files
+_notes
+_compareTemp
+cinfigs/
+dwsync.xml
+dw_php_codehinting.config
+*.mno
