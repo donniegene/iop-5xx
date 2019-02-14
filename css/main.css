@@ -285,3 +285,17 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+header {
+      position: fixed;
+      background-color: #DDD;
+      margin-top: 0px;
+      top: -10px;
+      width: 100%;
+      text-align: center;
+      font-size: 0.75em;
+}
+
+body {
+      
+}
