@@ -201,6 +201,9 @@ textarea {
 
 @media only screen and (min-width: 380px) {
     /* Style adjustments for viewports that meet the condition */
+    body{
+          background-color: green;
+   }
 }
 
 @media print,
