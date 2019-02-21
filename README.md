@@ -20,3 +20,7 @@ Version 1.0.0.1
       - Updated favicon link element in index.html
       - Added header changes to main.css
       - Added footer
+
+inside out project 5xx - STEP-500.0 | Branch 500-0
+      - Added starter template to begin our project
+      - Pulled template from: https://startbootstrap.com/templates/scrolling-nav/
