@@ -24,3 +24,8 @@ Version 1.0.0.1
 inside out project 5xx - STEP-500.0 | Branch 500-0
       - Added starter template to begin our project
       - Pulled template from: https://startbootstrap.com/templates/scrolling-nav/
+      - Created Assets folder.
+      - Inserted css, img, js, & vendor folders into Assets folders
+      - Modified the paths in index.html to represent the folder structure changes
+      - Copied over the content of the .gitignore file after it was changed by Bootstrap 
+      - Updated the README file
