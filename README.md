@@ -1,9 +1,8 @@
 # iop-5xx
 
 WEB-240-3241 Responsive Design inside out project iop-5xx
-      Production: https://iop-5xx.donaldallenjr.com/
-
-GitHub Pages site: https://donniegene.github.io/iop-5xx/
+      - Production: https://iop-5xx.donaldallenjr.com/
+      - GitHub Pages site: https://donniegene.github.io/iop-5xx/
 
 Preparing project for development
       - added html5-boilerplate
@@ -27,5 +26,5 @@ inside out project 5xx - STEP-500.0 | Branch 500-0
       - Created Assets folder.
       - Inserted css, img, js, & vendor folders into Assets folders
       - Modified the paths in index.html to represent the folder structure changes
-      - Copied over the content of the .gitignore file after it was changed by Bootstrap 
+      - Copied over the content of the .gitignore file after it was changed by Bootstrap
       - Updated the README file
