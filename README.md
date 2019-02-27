@@ -4,23 +4,23 @@
       - Production: https://iop-5xx.donaldallenjr.com/
       - GitHub Pages site: https://donniegene.github.io/iop-5xx/
 
-Preparing project for development
+### Preparing project for development
       - added html5-boilerplate
       - added Google Analytics
       - Pushed and tested.
 
-Version 1.0.0.0
+### Version 1.0.0.0
       Merge branch - Updated Favicons
             - Generated favorite icons package from
                   https://www.favicon-generator.org/
             - Updated title to iop-5xx | Don Allen
 
-Version 1.0.0.1
+### Version 1.0.0.1
       - Updated favicon link element in index.html
       - Added header changes to main.css
       - Added footer
 
-inside out project 5xx - STEP-500.0 | Branch 500-0
+### inside out project 5xx - STEP-500.0 | Branch 500-0
       - Added starter template to begin our project
       - Pulled template from: https://startbootstrap.com/templates/scrolling-nav/
       - Created Assets folder.
