@@ -29,7 +29,7 @@
       - Copied over the content of the .gitignore file after it was changed by Bootstrap
       - Updated the README file
 
-### inside out project 5xx - STEP-500.0 | Branch 501-0
+### inside out project 5xx - STEP-501.0 | Branch 501-0
       - Changed Title and page-top to reflect site name
       - Changed and added sections to expand menu
       - Added rounded circle placeholder to header https://placeholder.com/
