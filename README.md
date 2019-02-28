@@ -32,6 +32,6 @@
 ### inside out project 5xx - STEP-500.0 | Branch 501-0
       - Changed Title and page-top to reflect site name
       - Changed and added sections to expand menu
-      - Added rounded circle placeholder to header
+      - Added rounded circle placeholder to header https://placeholder.com/
       - Changed generic header text content including h1 and <p>
       - Changed menu to include new sections and changed section headers
