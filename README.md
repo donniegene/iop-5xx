@@ -37,4 +37,12 @@
       - Changed menu to include new sections and changed section headers
 
 ### inside out project 5xx - STEP-501.0 | Branch 502-0
-      - 
+      - Created fontawesome folder in assets/vendor
+            - Copied fontawesome-v509-all.js file from 502 GitHub repository
+      - Created app.js file in assets/js folder
+            - Implemeted getContent on window load
+            - Set parentPageID variable from
+                  https://me.donaldallenjr.com
+            - Using Ajax to build menu
+            - Running function resizeDiv when window size is changed
+      - Linked fontawesome-v509-all.js and app.js files in index.html            
