@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8 col-md-10 col-lg-12 mx-auto aboutWP">
+            <div class="text-center">
+                <img src="http://via.placeholder.com/150x150" class="rounded" alt="Don Allen">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-8 col-md-10 col-lg-12 mx-auto aboutWP">
+            <h2>About Myself</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Senectus et netus et malesuada fames. Vel pharetra vel turpis nunc eget lorem dolor sed. Id interdum velit laoreet id donec ultrices tincidunt. Nulla facilisi nullam vehicula ipsum a arcu cursus. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Enim nunc faucibus a pellentesque sit amet. Quis viverra nibh cras pulvinar mattis nunc. Malesuada nunc vel risus commodo viverra. Varius quam quisque id diam. Mauris pharetra et ultrices neque ornare aenean. Vitae proin sagittis nisl rhoncus. Eget mauris pharetra et ultrices neque ornare.</p>
+
+            <p>Justo donec enim diam vulputate ut pharetra. Mus mauris vitae ultricies leo integer malesuada nunc. Nunc id cursus metus aliquam eleifend mi in nulla. Volutpat maecenas volutpat blandit aliquam etiam. Facilisi morbi tempus iaculis urna id. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. Vitae semper quis lectus nulla at volutpat diam ut venenatis. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Fringilla ut morbi tincidunt augue interdum velit. Aliquam etiam erat velit scelerisque in. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Proin libero nunc consequat interdum varius sit. Pharetra magna ac placerat vestibulum lectus.</p>
+        </div>
+    </div>
+</div>

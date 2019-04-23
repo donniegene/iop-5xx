@@ -1,6 +1,7 @@
 html{
       font-size: 100%;
 }
+
 .navbar-brand {
       font-size: 110%;
 }
@@ -10,4 +11,10 @@ html{
       width: 150px;
       height: 10px;
       margin: auto;
+}
+
+
+section {
+      padding: 30px 10px;
+      overflow: hidden;
 }
