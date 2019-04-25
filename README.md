@@ -45,4 +45,7 @@
                   https://me.donaldallenjr.com
             - Using Ajax to build menu
             - Running function resizeDiv when window size is changed
-      - Linked fontawesome-v509-all.js and app.js files in index.html            
+      - Linked fontawesome-v509-all.js and app.js files in index.html
+
+### inside out project 5xx - STEP-501.0 | 2019-04-23
+      - Added Wordpress pages for Home, About, Experience, Education, and Skills added using bootstrap.            
