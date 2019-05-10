@@ -57,4 +57,5 @@
       - Placed all photos in assets/img folders
       - Changed links for photos
       - Changed section padding in style.css
-      - Changed parentPageID in app.js to link to Brian's Wordpress site vs mine due to hack      
+      - Changed parentPageID in app.js to link to Brian's Wordpress site vs mine due to hack  
+      - Linked to Wordpress site: https://me.inside-out-project.com/    
