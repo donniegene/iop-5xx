@@ -1,0 +1,20 @@
+html{
+      font-size: 100%;
+}
+
+.navbar-brand {
+      font-size: 110%;
+}
+
+#profileImg {
+      background: url(https://via.placeholder.com/150x150);
+      width: 150px;
+      height: 10px;
+      margin: auto;
+}
+
+
+section {
+      padding-top: 10px;
+      overflow: hidden;
+}
