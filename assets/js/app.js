@@ -10,8 +10,8 @@ window.onload = getContent();
 function getContent() {
     $.ajax({
         method: 'GET',
-        // url: 'https://me.inside-out-project.com/wp-json/wp/v2/pages/?parent=' + parentPageID + '&order=asc&orderby=menu_order',
-        url: 'https://me.inside-out-project.com/wp-admin/admin.php?page=nestedpages' + parentPageID + '&order=asc&orderby=menu_order',
+        url: 'https://me.inside-out-project.com/wp-json/wp/v2/pages/?parent=' + parentPageID + '&order=asc&orderby=menu_order',
+        // url: 'https://me.inside-out-project.com/wp-admin/admin.php?page=nestedpages' + parentPageID + '&order=asc&orderby=menu_order',
         dataType: 'json',
         success: function (data) {
             if (data.length > 0) {

@@ -40,7 +40,7 @@
       - Created fontawesome folder in assets/vendor
             - Copied fontawesome-v509-all.js file from 502 GitHub repository
       - Created app.js file in assets/js folder
-            - Implemeted getContent on window load
+            - Implemented getContent on window load
             - Set parentPageID variable from
                   https://me.donaldallenjr.com
             - Using Ajax to build menu
@@ -48,4 +48,13 @@
       - Linked fontawesome-v509-all.js and app.js files in index.html
 
 ### inside out project 5xx - STEP-501.0 | 2019-04-23
-      - Added Wordpress pages for Home, About, Experience, Education, and Skills added using bootstrap.            
+      - Added Wordpress pages for Home, About, Experience, Education, and Skills added using bootstrap.   
+
+### Final Practical
+      - Updated all placeholder text with actual information
+      - Updated placeholder photos with current photos
+      - Changed bootstrap col parameters to make the experience, education, skills, interests, & awards pages more responsive.
+      - Placed all photos in assets/img folders
+      - Changed links for photos
+      - Changed section padding in style.css
+      - Changed parentPageID in app.js to link to Brian's Wordpress site vs mine due to hack      
